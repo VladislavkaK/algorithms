@@ -36,5 +36,5 @@ let FindFactors = (number) => {
 
 let number = 9;
 
-document.write(FindFactors(number));
+document.write("Множители числа " + number + ": " + FindFactors(number));
 
